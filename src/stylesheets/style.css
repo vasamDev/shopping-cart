@@ -67,7 +67,7 @@ a {
 
    .shop-popup {
     position: absolute;
-    top: 46px;
+    top: 35px;
     width: 800px;
     margin-left: -40px;
     background-color: black;
@@ -398,10 +398,10 @@ a {
   flex-direction: column;
   flex-wrap: wrap;
   overflow-x: scroll;
-  height: 250px;
-  gap: 40px;
+  height: 200px;
+  gap: 20px;
   article {
-   width: 350px;
+   width: 300px;
    height: 100%;
    padding: 30px;
    border: 1px solid rgba(128, 128, 128, 0.258);
@@ -865,7 +865,7 @@ a {
  height: 90vh;
  width: 100%;
  overflow-y: scroll;
- border: 1px solid gray;
+ top: 90px;
  margin: auto;
 
  .cross {
